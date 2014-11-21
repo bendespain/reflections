@@ -6,3 +6,16 @@ How is the staging area different from the working directory and the repository?
 
 	It is a tracked area, whereas working directory is not.  It is not quite when things are in the repository, it's right before the commit.  I think the staging area helps you prepare for what actually will be committed and therefore makes it clear what will and what won't be committed
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Use git diff --staged to see the differences in the last commit and what you're about to commit.  Then finalize decision if it's logical.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	They would help when I am experimenting on my own version of things and I don't want to mess with the master that others are working on. Branches keep my stuff separate from the main, or others' stuff.
+
+How do the diagrams help you visualize the branch structure?
+	
+	Like a tree they help me realize where things are rooted, or originate
+
+
