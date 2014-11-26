@@ -18,4 +18,7 @@ How do the diagrams help you visualize the branch structure?
 	
 	Like a tree they help me realize where things are rooted, or originate
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	The two efforts are combined into one. We represent them the way we do because the two efforts are now part of the same and no longer separate.
 
