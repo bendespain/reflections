@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	The two efforts are combined into one. We represent them the way we do because the two efforts are now part of the same and no longer separate.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Automatic will remove some manual steps so that's nice.  It may confuse you though, since it doesn't always work.
+
